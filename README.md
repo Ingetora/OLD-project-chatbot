@@ -12,4 +12,4 @@ To trigger the next question after an user answer we added the step variable.We 
 
 ## View it live
 
-https://boring-hamilton-b2521d.netlify.app/
+https://stoic-pike-36022c.netlify.app/
